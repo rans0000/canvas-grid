@@ -1,0 +1,9 @@
+.artboard-wrapper{
+    background: #eee;position: relative;
+}
+.artboard{
+    position: absolute;background: #ccc;top: 50%;left: 50%;
+}
+.artboard .grids{
+    position: absolute;background: #666;
+}
